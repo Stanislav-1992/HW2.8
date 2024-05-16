@@ -1,7 +1,5 @@
 package pro.sky.skyprospringstyulkovhw28;
 
-import org.springframework.web.bind.annotation.RequestParam;
-
 import java.util.Collection;
 
 public interface EmployeeService {
